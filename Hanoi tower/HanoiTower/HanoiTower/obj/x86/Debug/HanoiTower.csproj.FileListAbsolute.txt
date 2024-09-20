@@ -1,0 +1,13 @@
+D:\Hanoi tower\HanoiTower\HanoiTower\bin\Debug\HanoiTower.exe
+D:\Hanoi tower\HanoiTower\HanoiTower\bin\Debug\HanoiTower.pdb
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\MainWindow.baml
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\MainWindow.g.cs
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\App.g.cs
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower_MarkupCompile.cache
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.g.resources
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.Properties.Resources.resources
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.csproj.GenerateResource.cache
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.csproj.CoreCompileInputs.cache
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.exe
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.pdb
+D:\Hanoi tower\HanoiTower\HanoiTower\obj\x86\Debug\HanoiTower.csproj.AssemblyReference.cache
